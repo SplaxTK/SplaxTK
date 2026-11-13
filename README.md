@@ -1,11 +1,8 @@
-![Banner](./banner.svg)
+![Banner](https://raw.githubusercontent.com/splaxtk/splaxtk/main/banner.svg)
 
 <div align="right">
-  <a href="./README.en.md">
-    <img src="https://shields.io" alt="Read in English" />
-  </a>
+  <a href="./README.en.md"><b>EN</b></a>
 </div>
-
 
 # ✌️🐱 Olá, Eu sou Davi! :3
 ### Desenvolvedor em formação, apaixonado por programação, tecnologia e criação de projetos.
@@ -18,12 +15,8 @@
 * [**FlowUp**](https://flow-up-ten.vercel.app) — Organizador de tarefas gamificado.
 
 ## Onde falar comigo:
-<a href="https://www.linkedin.com/in/davi-santana-0770b8406">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:davi.santana110609@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com"><img src="https://shields.io" /></a>
+<a href="mailto:davi.santana110609@gmail.com"><img src="https://shields.io" /></a>
 
 ## Linguagens e ferramentas:
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,docker"/>
