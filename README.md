@@ -12,7 +12,7 @@
 
 ---
 
-**Aprendendo:** <img src="https://skillicons.dev/icons?i=python" height="20" />
+**Aprendendo:** <img src="https://skillicons.dev/icons?i=python" height="25" />
 
 **Projetos em destaque:**
 * [**FlowUp**](https://flow-up-ten.vercel.app) — Organizador de tarefas gamificado.
