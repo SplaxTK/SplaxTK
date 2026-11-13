@@ -1,10 +1,15 @@
 <div align="right">
   <a href="./README.md"><b>PT-BR</b></a>
 </div>
+
 <div align="center">
+
 # ✌️🐱 Hi, I'm Davi! :3
+
 ### Aspiring developer, passionate about programming, technology, and building projects.
+
 </div>
+
 ---
 
 **Currently learning:** <img src="https://skillicons.dev" height="20" />
