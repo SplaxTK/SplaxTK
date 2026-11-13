@@ -1,10 +1,15 @@
 <div align="right">
   <a href="./README.en.md"><b>EN</b></a>
 </div>
+
 <div align="center">
+
 # ✌️🐱 Olá, Eu sou Davi! :3
+
 ### Desenvolvedor em formação, apaixonado por programação, tecnologia e criação de projetos.
+
 </div>
+
 ---
 
 **Aprendendo:** <img src="https://skillicons.dev/icons?i=python" height="20" />
